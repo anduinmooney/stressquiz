@@ -1,0 +1,17 @@
+.jumbotron {
+  text-align: center;
+  margin: 0%;
+  font-style: italic;
+  background-color: darkorange;
+}
+
+body {
+  background-color: orange;
+}
+
+.well {
+  background-color: darkorange;
+  max-width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
